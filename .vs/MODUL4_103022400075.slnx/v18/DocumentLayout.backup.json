@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\MODUL4_103022400075\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1307C82-D131-C774-00DA-575FB0545107}|MODUL4_103022400075\\MODUL4_103022400075.csproj|c:\\users\\user\\source\\repos\\modul4_103022400075\\modul4_103022400075\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1307C82-D131-C774-00DA-575FB0545107}|MODUL4_103022400075\\MODUL4_103022400075.csproj|solutionrelative:modul4_103022400075\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1307C82-D131-C774-00DA-575FB0545107}|MODUL4_103022400075\\MODUL4_103022400075.csproj|c:\\users\\user\\source\\repos\\modul4_103022400075\\modul4_103022400075\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1307C82-D131-C774-00DA-575FB0545107}|MODUL4_103022400075\\MODUL4_103022400075.csproj|solutionrelative:modul4_103022400075\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePaket.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MODUL4_103022400075\\MODUL4_103022400075\\KodePaket.cs",
+              "RelativeDocumentMoniker": "MODUL4_103022400075\\KodePaket.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MODUL4_103022400075\\MODUL4_103022400075\\KodePaket.cs",
+              "RelativeToolTip": "MODUL4_103022400075\\KodePaket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:50:56.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MODUL4_103022400075\\MODUL4_103022400075\\Program.cs",
+              "RelativeDocumentMoniker": "MODUL4_103022400075\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MODUL4_103022400075\\MODUL4_103022400075\\Program.cs*",
+              "RelativeToolTip": "MODUL4_103022400075\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:48:43.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
